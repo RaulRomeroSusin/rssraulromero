@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Feed de Raúl Romero</title>
+        <link>https://raulromerosusin.github.io/rssraulromero/</link>
+        <description>Primer Feed RSS</description>
+        <language>es-ES</language>
+        <lastBuildDate>Mon, 09 Jan 2024 12:00:00 GMT</lastBuildDate>
+
+        <item>
+            <title>Lo que he aprendido de usar un Raspberry Pi 5 como mi pc principal</title>
+            <link>https://arstechnica.com/gadgets/2024/01/what-i-learned-from-using-a-raspberry-pi-5-as-my-main-computer-for-two-weeks/</link>
+            <description>¿Cómo funcionará usar un Raspberry Pi 5 como se fuese un pc convencional?</description>
+            <pubDate>Mon, 09 Jan 2024 12:01:00 GMT</pubDate>
+            <category>Crítica</category>
+            <author>Andrew Cunningham</author>
+            <guid>1</guid>
+            <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/01/IMG_0614-800x600.jpeg" length="12345" type="image/jpeg" />
+            <comments>The Raspberry Pi 5 inside its oficcial case.</comments>
+            <source url="https://arstechnica.com/gadgets/2024/01/what-i-learned-from-using-a-raspberry-pi-5-as-my-main-computer-for-two-weeks"/>
+            <ttl>60</ttl>
+            <content><![CDATA[RaspberryPi5]]></content>
+            <creator>Andrew Cunningham</creator>
+            <date>2024-01-09T12:01:00Z</date>
+        </item>
+        <item>
+            <title>LG OLED T es un televisor transparente de 77 pulgadas que llegará en 2024</title>
+            <link>https://arstechnica.com/gadgets/2024/01/lg-oled-t-is-a-transparent-77-inch-tv-that-will-arrive-in-2024/</link>
+            <description>Parece que será extremadamente caro</description>
+            <pubDate>Mon, 09 Jan 2024 12:01:00 GMT</pubDate>
+            <category>Crítica</category>
+            <author>Scharon Harding</author>
+            <guid>2</guid>
+            <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/01/partway-800x358.jpg" length="12345" type="image/jpeg" />
+            <comments>El televisor LG OLED T permitiéndote ver lo que hay detrás.</comments>
+            <source url="https://arstechnica.com/gadgets/2024/01/lg-oled-t-is-a-transparent-77-inch-tv-that-will-arrive-in-2024/"/>
+            <ttl>60</ttl>
+            <content><![CDATA[LGOLEDT]]></content>
+            <creator>Sharon Harding</creator>
+            <date>2024-01-09T12:01:00Z</date>
+        </item>
+        <item>
+            <title>Item 1</title>
+            <link>https://arstechnica.com/gadgets/2024/01/what-i-learned-from-using-a-raspberry-pi-5-as-my-main-computer-for-two-weeks/</link>
+            <description>¿Cómo funcionará usar un Raspberry Pi 5 como se fuese un pc convencional?</description>
+            <pubDate>Mon, 09 Jan 2024 12:01:00 GMT</pubDate>
+            <category>Crítica</category>
+            <author>Andrew Cunningham</author>
+            <guid>1</guid>
+            <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/01/IMG_0614-800x600.jpeg" length="12345" type="image/jpeg" />
+            <comments>The Raspberry Pi 5 inside its oficcial case.</comments>
+            <source url="https://arstechnica.com/gadgets/2024/01/what-i-learned-from-using-a-raspberry-pi-5-as-my-main-computer-for-two-weeks"/>
+            <ttl>60</ttl>
+            <content><![CDATA[RaspberryPi5]]></content>
+            <creator>Andrew Cunningham</creator>
+            <date>2024-01-09T12:01:00Z</date>
+        </item>
+        <item>
+            <title>Item 1</title>
+            <link>https://arstechnica.com/gadgets/2024/01/what-i-learned-from-using-a-raspberry-pi-5-as-my-main-computer-for-two-weeks/</link>
+            <description>¿Cómo funcionará usar un Raspberry Pi 5 como se fuese un pc convencional?</description>
+            <pubDate>Mon, 09 Jan 2024 12:01:00 GMT</pubDate>
+            <category>Crítica</category>
+            <author>Andrew Cunningham</author>
+            <guid>1</guid>
+            <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/01/IMG_0614-800x600.jpeg" length="12345" type="image/jpeg" />
+            <comments>The Raspberry Pi 5 inside its oficcial case.</comments>
+            <source url="https://arstechnica.com/gadgets/2024/01/what-i-learned-from-using-a-raspberry-pi-5-as-my-main-computer-for-two-weeks"/>
+            <ttl>60</ttl>
+            <content><![CDATA[RaspberryPi5]]></content>
+            <creator>Andrew Cunningham</creator>
+            <date>2024-01-09T12:01:00Z</date>
+        </item>
+        <item>
+            <title>Item 1</title>
+            <link>https://arstechnica.com/gadgets/2024/01/what-i-learned-from-using-a-raspberry-pi-5-as-my-main-computer-for-two-weeks/</link>
+            <description>¿Cómo funcionará usar un Raspberry Pi 5 como se fuese un pc convencional?</description>
+            <pubDate>Mon, 09 Jan 2024 12:01:00 GMT</pubDate>
+            <category>Crítica</category>
+            <author>Andrew Cunningham</author>
+            <guid>1</guid>
+            <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/01/IMG_0614-800x600.jpeg" length="12345" type="image/jpeg" />
+            <comments>The Raspberry Pi 5 inside its oficcial case.</comments>
+            <source url="https://arstechnica.com/gadgets/2024/01/what-i-learned-from-using-a-raspberry-pi-5-as-my-main-computer-for-two-weeks"/>
+            <ttl>60</ttl>
+            <content><![CDATA[RaspberryPi5]]></content>
+            <creator>Andrew Cunningham</creator>
+            <date>2024-01-09T12:01:00Z</date>
+        </item>
+    </channel>
+</rss>
