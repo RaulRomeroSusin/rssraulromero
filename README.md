@@ -1,2 +1,2 @@
 # rssraulromero
-. [rss.xml](/rss.xml)
+- [rss.xml](/rss.xml)
