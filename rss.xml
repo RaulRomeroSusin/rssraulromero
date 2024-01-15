@@ -1,91 +1,206 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
     <channel>
-        <title>Feed de Raúl Romero</title>
-        <link>https://raulromerosusin.github.io/rssraulromero/</link>
-        <description>Primer Feed RSS</description>
-        <language>es-ES</language>
-        <lastBuildDate>Mon, 09 Jan 2024 12:00:00 GMT</lastBuildDate>
-
-        <item>
-            <title>Lo que he aprendido de usar un Raspberry Pi 5 como mi pc principal</title>
-            <link>https://arstechnica.com/gadgets/2024/01/what-i-learned-from-using-a-raspberry-pi-5-as-my-main-computer-for-two-weeks/</link>
-            <description>¿Cómo funcionará usar un Raspberry Pi 5 como se fuese un pc convencional?</description>
-            <pubDate>Mon, 09 Jan 2024 12:01:00 GMT</pubDate>
-            <category>Crítica</category>
-            <author>Andrew Cunningham</author>
-            <guid>1</guid>
-            <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/01/IMG_0614-800x600.jpeg" length="12345" type="image/jpeg" />
-            <comments>The Raspberry Pi 5 inside its oficcial case.</comments>
-            <source url="https://arstechnica.com/gadgets/2024/01/what-i-learned-from-using-a-raspberry-pi-5-as-my-main-computer-for-two-weeks"/>
-            <ttl>60</ttl>
-            <content><![CDATA[RaspberryPi5]]></content>
-            <creator>Andrew Cunningham</creator>
-            <date>2024-01-09T12:01:00Z</date>
-        </item>
-        <item>
-            <title>LG OLED T es un televisor transparente de 77 pulgadas que llegará en 2024</title>
-            <link>https://arstechnica.com/gadgets/2024/01/lg-oled-t-is-a-transparent-77-inch-tv-that-will-arrive-in-2024/</link>
-            <description>Parece que será extremadamente caro</description>
-            <pubDate>Mon, 09 Jan 2024 12:01:00 GMT</pubDate>
-            <category>Crítica</category>
-            <author>Scharon Harding</author>
-            <guid>2</guid>
-            <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/01/partway-800x358.jpg" length="12345" type="image/jpeg" />
-            <comments>El televisor LG OLED T permitiéndote ver lo que hay detrás.</comments>
-            <source url="https://arstechnica.com/gadgets/2024/01/lg-oled-t-is-a-transparent-77-inch-tv-that-will-arrive-in-2024/"/>
-            <ttl>60</ttl>
-            <content><![CDATA[LGOLEDT]]></content>
-            <creator>Sharon Harding</creator>
-            <date>2024-01-09T12:01:00Z</date>
-        </item>
-        <item>
-            <title>Item 1</title>
-            <link>https://arstechnica.com/gadgets/2024/01/what-i-learned-from-using-a-raspberry-pi-5-as-my-main-computer-for-two-weeks/</link>
-            <description>¿Cómo funcionará usar un Raspberry Pi 5 como se fuese un pc convencional?</description>
-            <pubDate>Mon, 09 Jan 2024 12:01:00 GMT</pubDate>
-            <category>Crítica</category>
-            <author>Andrew Cunningham</author>
-            <guid>1</guid>
-            <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/01/IMG_0614-800x600.jpeg" length="12345" type="image/jpeg" />
-            <comments>The Raspberry Pi 5 inside its oficcial case.</comments>
-            <source url="https://arstechnica.com/gadgets/2024/01/what-i-learned-from-using-a-raspberry-pi-5-as-my-main-computer-for-two-weeks"/>
-            <ttl>60</ttl>
-            <content><![CDATA[RaspberryPi5]]></content>
-            <creator>Andrew Cunningham</creator>
-            <date>2024-01-09T12:01:00Z</date>
-        </item>
-        <item>
-            <title>Item 1</title>
-            <link>https://arstechnica.com/gadgets/2024/01/what-i-learned-from-using-a-raspberry-pi-5-as-my-main-computer-for-two-weeks/</link>
-            <description>¿Cómo funcionará usar un Raspberry Pi 5 como se fuese un pc convencional?</description>
-            <pubDate>Mon, 09 Jan 2024 12:01:00 GMT</pubDate>
-            <category>Crítica</category>
-            <author>Andrew Cunningham</author>
-            <guid>1</guid>
-            <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/01/IMG_0614-800x600.jpeg" length="12345" type="image/jpeg" />
-            <comments>The Raspberry Pi 5 inside its oficcial case.</comments>
-            <source url="https://arstechnica.com/gadgets/2024/01/what-i-learned-from-using-a-raspberry-pi-5-as-my-main-computer-for-two-weeks"/>
-            <ttl>60</ttl>
-            <content><![CDATA[RaspberryPi5]]></content>
-            <creator>Andrew Cunningham</creator>
-            <date>2024-01-09T12:01:00Z</date>
-        </item>
-        <item>
-            <title>Item 1</title>
-            <link>https://arstechnica.com/gadgets/2024/01/what-i-learned-from-using-a-raspberry-pi-5-as-my-main-computer-for-two-weeks/</link>
-            <description>¿Cómo funcionará usar un Raspberry Pi 5 como se fuese un pc convencional?</description>
-            <pubDate>Mon, 09 Jan 2024 12:01:00 GMT</pubDate>
-            <category>Crítica</category>
-            <author>Andrew Cunningham</author>
-            <guid>1</guid>
-            <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/01/IMG_0614-800x600.jpeg" length="12345" type="image/jpeg" />
-            <comments>The Raspberry Pi 5 inside its oficcial case.</comments>
-            <source url="https://arstechnica.com/gadgets/2024/01/what-i-learned-from-using-a-raspberry-pi-5-as-my-main-computer-for-two-weeks"/>
-            <ttl>60</ttl>
-            <content><![CDATA[RaspberryPi5]]></content>
-            <creator>Andrew Cunningham</creator>
-            <date>2024-01-09T12:01:00Z</date>
-        </item>
+    <title>Ars Technica - All content</title>
+    <atom:link href="https://arstechnica.com/feed/" rel="self" type="application/rss+xml"/>
+    <link>https://arstechnica.com</link>
+    <description>Todas las historias de ARS Technica</description>
+    <lastBuildDate>Mon, 15 Jan 2024 13:50:24 +0000</lastBuildDate>
+    <language>en-US</language>
+    <sy:updatePeriod> hourly </sy:updatePeriod>
+    <sy:updateFrequency> 1 </sy:updateFrequency>
+    <generator>https://wordpress.org/?v=6.0.3</generator>
+    <image>
+    <url>https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-32x32.png</url>
+    <title>Ars Technica</title>
+    <link>https://arstechnica.com</link>
+    <width>32</width>
+    <height>32</height>
+    </image>
+    <item>
+    <title>Daily Telescope: la vida en la Tierra, y tal vez en el cielo, en una sola foto</title>
+    <link>https://arstechnica.com/?p=1995815</link>
+    <comments>https://arstechnica.com/space/2024/01/daily-telescope-life-on-earth-and-maybe-in-the-heavens-above-in-a-single-photo/#comments</comments>
+    <dc:creator>
+    <![CDATA[ Eric Berger ]]>
+    </dc:creator>
+    <pubDate>Mon, 15 Jan 2024 13:00:06 +0000</pubDate>
+    <category>
+    <![CDATA[ Science ]]>
+    </category>
+    <category>
+    <![CDATA[ Space ]]>
+    </category>
+    <category>
+    <![CDATA[ daily telescope ]]>
+    </category>
+    <guid isPermaLink="false">https://arstechnica.com/?p=1995815</guid>
+    <description>
+    <![CDATA[ It is fun to contemplate all of the life on display in this image. ]]>
+    </description>
+    <content:encoded>
+    <![CDATA[ <div id="rss-wrap"> <figure class="intro-image intro-left"> <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/01/milky-way-and-Bioluminescence-800x1200.jpg" alt="The Milky Way over the sea. "> <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2024/01/milky-way-and-Bioluminescence-scaled.jpg" class="enlarge-link" data-height="2560" data-width="1707">Enlarge</a> <span class="sep">/</span> The Milky Way over the sea. (credit: Alfonso Tamés)</p> </figure> <p><em>Welcome to the <a href="https://arstechnica.com/tag/daily-telescope/">Daily Telescope</a>. There is a little too much darkness in this world and not enough light, a little too much pseudoscience and not enough science. We'll let other publications offer you a daily horoscope. At Ars Technica, we're going to take a different route, finding inspiration from very real images of a universe that is filled with stars and wonder.</em></p> <div><a name="page-1"></a></div> <p>Good morning. It's January 15, and today's image comes to us from Playa Grande, Mexico.</p> <p>I realize that some readers may be tiring of seeing the Milky Way Galaxy, but not me! I love photos of our galaxy and so they are regularly featured in the Daily Telescope. However, this photo is truly special, as it highlights not just the heavens above, but one of the wonders here on Earth.</p></div><p><a href="https://arstechnica.com/?p=1995815#p3">Read 4 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1995815&comments=1">Comments</a></p> ]]>
+    </content:encoded>
+    <wfw:commentRss>https://arstechnica.com/space/2024/01/daily-telescope-life-on-earth-and-maybe-in-the-heavens-above-in-a-single-photo/feed/</wfw:commentRss>
+    <slash:comments>15</slash:comments>
+    </item>
+    <item>
+    <title>Los 5 monitores de pc más interesantes.</title>
+    <link>https://arstechnica.com/?p=1995280</link>
+    <comments>https://arstechnica.com/gadgets/2024/01/the-5-most-interesting-pc-monitors-from-ces-2024/#comments</comments>
+    <dc:creator>
+    <![CDATA[ Scharon Harding ]]>
+    </dc:creator>
+    <pubDate>Sun, 14 Jan 2024 12:45:46 +0000</pubDate>
+    <category>
+    <![CDATA[ Features ]]>
+    </category>
+    <category>
+    <![CDATA[ Tech ]]>
+    </category>
+    <category>
+    <![CDATA[ ASUS ]]>
+    </category>
+    <category>
+    <![CDATA[ CES ]]>
+    </category>
+    <category>
+    <![CDATA[ dell ]]>
+    </category>
+    <category>
+    <![CDATA[ LG ]]>
+    </category>
+    <category>
+    <![CDATA[ Monitors ]]>
+    </category>
+    <category>
+    <![CDATA[ msi ]]>
+    </category>
+    <category>
+    <![CDATA[ oled ]]>
+    </category>
+    <guid isPermaLink="false">https://arstechnica.com/?p=1995280</guid>
+    <description>
+    <![CDATA[ Lines keep blurring between work and play screens, and OLED overwhelms. ]]>
+    </description>
+    <content:encoded>
+    <![CDATA[ <div id="rss-wrap"> <figure class="intro-image intro-left"> <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/01/Dell-800x600.jpg" alt="Dell UltraSharp 40 Curved Thunderbolt Hub Monitor (U4025QW)"> <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2024/01/Dell-scaled.jpg" class="enlarge-link" data-height="1920" data-width="2560">Enlarge</a> <span class="sep">/</span> Dell's upcoming UltraSharp U4025QW. (credit: Scharon Harding)</p> </figure> <div><a name="page-1"></a></div> <p>Each year, the Consumer Electronics show brings a ton of new computer monitor announcements, and it's often difficult to figure out what's worth paying attention to. When it comes to the most interesting models this year, there were two noteworthy themes.</p> <p>First of all, my complaint in 2022 about there <a href="https://arstechnica.com/gadgets/2022/12/oled-monitor-selection-is-pathetic-2023-can-change-that/">not being enough OLED monitors</a> was largely addressed this year. CES revealed many plans for <a href="https://arstechnica.com/gadgets/2023/11/why-oled-monitor-burn-in-isnt-a-huge-problem-anymore/">OLED monitors</a> in 2024, with a good number of those screens set to be appropriately sized for desktops. That includes the introduction of 32-inch, non-curved <a href="https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1704738600">QD-OLED options</a> and other smaller screens for people who have been waiting for OLED monitors in more varied form factors.</p> <p>Secondly, with more people blending their work and home lives these days, CES brought hints that the line between gaming monitors and premium monitors used for general or even professional purposes will be blurring more in the future. We're not at the point where the best productivity monitor and ideal gaming monitor perfectly align in a single product. But this week's announcements have me imagining ways that future monitors could better serve users with serious work <em>and</em> play interests.</p></div><p><a href="https://arstechnica.com/?p=1995280#p3">Read 38 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1995280&comments=1">Comments</a></p> ]]>
+    </content:encoded>
+    <wfw:commentRss>https://arstechnica.com/gadgets/2024/01/the-5-most-interesting-pc-monitors-from-ces-2024/feed/</wfw:commentRss>
+    <slash:comments>132</slash:comments>
+    </item>
+    <item>
+    <title>¿Encontrarían los Luddites la economía familiar?</title>
+    <link>https://arstechnica.com/?p=1995716</link>
+    <comments>https://arstechnica.com/gadgets/2024/01/would-luddites-find-the-gig-economy-familiar/#comments</comments>
+    <dc:creator>
+    <![CDATA[ Diana Gitig ]]>
+    </dc:creator>
+    <pubDate>Sat, 13 Jan 2024 11:00:42 +0000</pubDate>
+    <category>
+    <![CDATA[ Tech ]]>
+    </category>
+    <category>
+    <![CDATA[ Amazon ]]>
+    </category>
+    <category>
+    <![CDATA[ technology ]]>
+    </category>
+    <category>
+    <![CDATA[ Uber ]]>
+    </category>
+    <guid isPermaLink="false">https://arstechnica.com/?p=1995716</guid>
+    <description>
+    <![CDATA[ Luddites were hardly the anti-tech dullards historians have painted them to be. ]]>
+    </description>
+    <content:encoded>
+    <![CDATA[ <div id="rss-wrap"> <figure class="intro-image intro-left"> <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-71688328-800x566.jpg" alt="Woman about to swing a hammer at a laptop."> <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-71688328.jpg" class="enlarge-link" data-height="1456" data-width="2059">Enlarge</a> (credit: <a rel="nofollow" class="caption-link" href="https://www.gettyimages.com/detail/photo/woman-shouting-and-swinging-hammer-at-laptop-royalty-free-image/71688328?phrase=luddites">Matthieu Spohn</a>)</p> </figure> <div><a name="page-1"></a></div> <p>The term Luddite is usually used as an insult. It suggests someone who is backward-looking, averse to progress, afraid of new technology, and frankly, not that bright. But Brian Merchant claims that that is not who the Luddites were at all. They were organized, articulate in their demands, very much understood how factory owners were using machinery to supplant them, and highly targeted in their destruction of that machinery.</p> <p>Their pitiable reputation is the result of a deliberate smear campaign by elites in their own time who (successfully, as it turned out) tried to discredit their coherent and justified movement. In his book <a href="https://www.hachettebookgroup.com/titles/brian-merchant/blood-in-the-machine/9780316487740/?lens=little-brown"><i>Blood in the Machine: The Origins of the Rebellion Against Big Tech</i></a>, Merchant memorializes the Luddites not as the hapless dolts with their heads in the sand that they’ve become synonymous with, but rather as the first labor organizers. Longing for the halcyon days of yore when we were more in touch with nature isn’t Luddism, Merchant writes; that’s pastoralism—totally different thing.</p> <h2>OG Luddites</h2> <p>Weavers used to work at home, using hand-powered looms (i.e., machines). The whole family pitched in to make cloth; they worked on their own schedules and spent their leisure time and meals together. Master weavers apprenticed for seven years to learn their trade. It worked this way in the north of England for hundreds of years.</p></div><p><a href="https://arstechnica.com/?p=1995716#p3">Read 14 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1995716&comments=1">Comments</a></p> ]]>
+    </content:encoded>
+    <wfw:commentRss>https://arstechnica.com/gadgets/2024/01/would-luddites-find-the-gig-economy-familiar/feed/</wfw:commentRss>
+    <slash:comments>202</slash:comments>
+    </item>
+    <item>
+    <title>Los CDC informan caídas en la gripe, el COVID-19 y el VRS, aunque los niveles siguen siendo muy altos</title>
+    <link>https://arstechnica.com/?p=1995823</link>
+    <comments>https://arstechnica.com/science/2024/01/cdc-reports-dips-in-flu-covid-19-and-rsv-though-levels-still-very-high/#comments</comments>
+    <dc:creator>
+    <![CDATA[ Beth Mole ]]>
+    </dc:creator>
+    <pubDate>Fri, 12 Jan 2024 23:34:36 +0000</pubDate>
+    <category>
+    <![CDATA[ Health ]]>
+    </category>
+    <category>
+    <![CDATA[ Science ]]>
+    </category>
+    <category>
+    <![CDATA[ annual flu shot ]]>
+    </category>
+    <category>
+    <![CDATA[ CDC ]]>
+    </category>
+    <category>
+    <![CDATA[ COVID-19 ]]>
+    </category>
+    <category>
+    <![CDATA[ deaths ]]>
+    </category>
+    <category>
+    <![CDATA[ flu season ]]>
+    </category>
+    <category>
+    <![CDATA[ influenza ]]>
+    </category>
+    <category>
+    <![CDATA[ influenza-like illness ]]>
+    </category>
+    <category>
+    <![CDATA[ respiratory viruses ]]>
+    </category>
+    <category>
+    <![CDATA[ RSV ]]>
+    </category>
+    <category>
+    <![CDATA[ vaccines ]]>
+    </category>
+    <guid isPermaLink="false">https://arstechnica.com/?p=1995823</guid>
+    <description>
+    <![CDATA[ The dips may be due to holiday lulls; CDC is monitoring for post-holiday increase. ]]>
+    </description>
+    <content:encoded>
+    <![CDATA[ <div id="rss-wrap"> <figure class="intro-image intro-left"> <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/12/GettyImages-837481992-800x533.jpg" alt="The influenza virus from an image produced with transmission electron microscopy. Viral diameter ranges from around 80 to 120 nm."> <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2017/12/GettyImages-837481992.jpg" class="enlarge-link" data-height="2835" data-width="4252">Enlarge</a> <span class="sep">/</span> The influenza virus from an image produced with transmission electron microscopy. Viral diameter ranges from around 80 to 120 nm. (credit: <a rel="nofollow" class="caption-link" href="http://www.gettyimages.com/license/837481992">Getty | BSIP</a>)</p> </figure> <div><a name="page-1"></a></div> <p>Key indicators of seasonal flu activity declined in the first week of the year, signaling a possible reprieve from the high levels of respiratory virus transmission this season—but the dip may only be temporary.</p> <p>On Friday, the Centers for Disease Control and Prevention released its latest flu data for the week ending on January 6. Outpatient visits for influenza-like illnesses (ILI) were down that week, the first decline after weeks of rapid increases. Flu test positivity and hospitalizations were also down slightly.</p> <div class="image shortcode-img center large"><a href="https://cdn.arstechnica.net/wp-content/uploads/2024/01/iliactivity.jpg"><img alt="Percent of outpatient visits for respiratory illnesses by week. " src="https://cdn.arstechnica.net/wp-content/uploads/2024/01/iliactivity-640x503.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2024/01/iliactivity-1280x1005.jpg 2x"></a><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2024/01/iliactivity.jpg" class="caption-link" rel="nofollow">Percent of outpatient visits for respiratory illnesses by week. </a> (credit: <a rel="nofollow" class="caption-link" href="https://www.cdc.gov/flu/weekly/index.htm">CDC</a>)</p></div> <p>But transmission is still elevated around the country. Fourteen states <a href="https://www.cdc.gov/flu/weekly/index.htm">have ILI activity at the "very high" level</a> in the current data, down from 22 the week before. And 23 states have "high" activity level, up from 19 the week before. (You can see the week-by-week progression of this year's flu season in the US <a href="https://gis.cdc.gov/grasp/fluview/main.html">here</a>.)</p></div><p><a href="https://arstechnica.com/?p=1995823#p3">Read 7 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1995823&comments=1">Comments</a></p> ]]>
+    </content:encoded>
+    <wfw:commentRss>https://arstechnica.com/science/2024/01/cdc-reports-dips-in-flu-covid-19-and-rsv-though-levels-still-very-high/feed/</wfw:commentRss>
+    <slash:comments>105</slash:comments>
+    </item>
+    <item>
+    <title>Reddit debe compartir las direcciones IP de los usuarios que hablan sobre piratería, dicen los estudios de cine</title>
+    <link>https://arstechnica.com/?p=1995738</link>
+    <comments>https://arstechnica.com/tech-policy/2024/01/film-studios-demand-ip-addresses-of-people-who-discussed-piracy-on-reddit/#comments</comments>
+    <dc:creator>
+    <![CDATA[ Scharon Harding ]]>
+    </dc:creator>
+    <pubDate>Fri, 12 Jan 2024 23:02:06 +0000</pubDate>
+    <category>
+    <![CDATA[ Policy ]]>
+    </category>
+    <category>
+    <![CDATA[ piracy ]]>
+    </category>
+    <category>
+    <![CDATA[ reddit ]]>
+    </category>
+    <category>
+    <![CDATA[ social media ]]>
+    </category>
+    <guid isPermaLink="false">https://arstechnica.com/?p=1995738</guid>
+    <description>
+    <![CDATA[ Reddit says First Amendment rights protect it from having to disclose users' info. ]]>
+    </description>
+    <content:encoded>
+    <![CDATA[ <div id="rss-wrap"> <figure class="intro-image intro-left"> <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-172387884-800x533.jpg" alt="A keyboard icon for piracy beside letter v and n"> <p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-172387884-scaled.jpg" class="enlarge-link" data-height="1707" data-width="2560">Enlarge</a> (credit: <a rel="nofollow" class="caption-link" href="https://www.gettyimages.com/detail/photo/keyboard-icon-for-piracy-beside-letter-v-and-n-royalty-free-image/172387884">Getty</a>)</p> </figure> <div><a name="page-1"></a></div> <p>For the third time in less than a year, film studios with copyright infringement complaints against a cable Internet provider are trying to force Reddit to share information about users who have discussed piracy on the site.</p> <p>In 2023, film companies lost two attempts to have Reddit unmask its users. In the first instance, US Magistrate Judge Laurel Beeler <a href="https://arstechnica.com/tech-policy/2023/05/judge-wont-force-reddit-to-identify-anonymous-users-who-discussed-piracy/">ruled</a> in the US District Court for the Northern District of California that the First Amendment right to anonymous speech meant Reddit didn’t have to disclose the names, email addresses, and other account registration information for nine Reddit users. Film companies, including Bodyguard Productions and Millennium Media, had <a href="https://arstechnica.com/tech-policy/2023/02/reddit-should-have-to-identify-users-who-discussed-piracy-film-studios-tell-court/">subpoenaed Reddit</a> in relation to a copyright infringement <a href="https://storage.courtlistener.com/recap/gov.uscourts.njd.480117/gov.uscourts.njd.480117.1.0.pdf">lawsuit</a> against Astound Broadband-owned RCN about subscribers allegedly pirating 34 movie titles, including <em>Hellboy </em>(2019),<em> Rambo V: Last Blood</em>, and <em>Tesla.</em></p> <p>In the second instance, the same companies sued Astound Broadband-owned ISP Grande, again for alleged copyright infringement occurring over the ISP’s network. The studios subpoenaed Reddit for user account information, including "IP address registration and logs from 1/1/2016 to present, name, email address, and other account registration information” for six Reddit users, per a July 2023 <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.414273/gov.uscourts.cand.414273.15.0.pdf">court filing</a>.</p></div><p><a href="https://arstechnica.com/?p=1995738#p3">Read 19 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1995738&comments=1">Comments</a></p> ]]>
+    </content:encoded>
+    <wfw:commentRss>https://arstechnica.com/tech-policy/2024/01/film-studios-demand-ip-addresses-of-people-who-discussed-piracy-on-reddit/feed/</wfw:commentRss>
+    <slash:comments>221</slash:comments>
+    </item>
     </channel>
-</rss>
+    </rss>
